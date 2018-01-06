@@ -30,3 +30,5 @@ The Blue Mountains are generally located between Kingston to the south and Port 
 ## A New Section
 
 Now we're rockin!
+
+Another edit. This time with editorial workflow enabled.
